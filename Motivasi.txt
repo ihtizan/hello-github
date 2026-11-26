@@ -1,0 +1,5 @@
+"Setiap programmer ahli dulunya adalah pemula yang kebingungan mencari titik koma yang hilang."
+"Error bukanlah tanda kamu gagal, melainkan petunjuk bahwa kamu sedang berproses menemukan solusi."
+"Jangan takut merusak kode; dari proses memperbaikinya, logikamu akan terasah."
+"Satu baris kode yang berjalan mulus hari ini adalah investasi besar untuk kariermu di masa depan."
+"Tidak perlu langsung mahir membangun sistem besar, cukup pastikan hari ini kamu paham lebih baik dari kemarin."
